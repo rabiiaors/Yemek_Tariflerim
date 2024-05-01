@@ -1,0 +1,41 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TarifFragment">
+
+    <!-- Arka plan resmi -->
+
+    <!-- Buton -->
+
+    <!-- TextView -->
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/resim" />
+
+    <Button
+        android:id="@+id/buttonGoToWebsite"
+        android:layout_width="361dp"
+        android:layout_height="78dp"
+        android:layout_gravity="center"
+        android:text="Web Siteye Git"
+        android:textColor="@color/white"
+        android:textSize="32dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="425dp"
+        android:layout_height="294dp"
+        android:text="
+  Tarif Önerisi al "
+        android:textColor="@color/white"
+        android:textSize="32dp"
+        android:textStyle="bold" />
+
+</FrameLayout>
+
+
+
