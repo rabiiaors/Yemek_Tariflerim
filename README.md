@@ -4,7 +4,7 @@ Proje Amaçları ve Özellikleri:
 
 Bu proje, kullanıcıların yemek tariflerine kolay erişimini sağlamak ve çeşitli yemek tariflerini görüntüleme ve izleme imkanı sunmak amacıyla geliştirilmiştir. Projenin öne çıkan özellikleri ise şunlardır:
 1. Kategorilere Göre Sınıflandırma: Yemekleri farklı kategorilere ayırarak kullanıcıların istedikleri tariflere daha hızlı erişimini sağlar. Ayrıca, sürdürülebilirlik ve menşe bilgileri gibi önemli detaylar da görüntülenebilir.
-2. Görüntü İşleme ve Tanıma: Kullanıcıların fotoğraf veya kamera ile tanımladıkları malzemeleri algılayarak, bu malzemelere uygun özel yemek tarifleri önerileri sunabilen bir özellik bulunmaktadır. Bu özellik, kullanıcıların ellerindeki malzemelere göre pratik ve kişiselleştirilmiş tarifler bulmalarına olanak tanır, böylece mutfakta daha verimli bir şekilde vakit geçirmelerini sağlar.
+2. Görüntü İşleme ve Tanıma: Kullanıcıların tanımladıkları malzemeleri algılayarak, bu malzemelere uygun özel yemek tarifleri önerileri sunabilen bir özellik bulunmaktadır. Bu özellik, kullanıcıların ellerindeki malzemelere göre pratik ve kişiselleştirilmiş tarifler bulmalarına olanak tanır, böylece mutfakta daha verimli bir şekilde vakit geçirmelerini sağlar.
    
 Proje Panelleri:
 1. Kullanıcı Paneli: Kullanıcıların uygulamaya giriş yapabileceği, kayıt olabileceği ve hesap ayarlarını yönetebileceği bir panel.
