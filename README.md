@@ -1,30 +1,30 @@
-# EasyFood
-EasyFood is an app that makes making food easier and gives you full information about the selected meal including instructions of how to make that meal provided by a video.
+                Yemek Tarifleri Uygulaması Gereksinimler Listesi  
 
-# Preview
-download apk app : https://www.mediafire.com/file/e2pteuagpozgdtm/Easy_food.apk/file
+Proje Amaçları ve Özellikleri:
 
-![1](https://user-images.githubusercontent.com/78867217/143778911-20c19914-7f67-41c9-ab0f-0a609f9f07e7.jpg)
+Bu proje, kullanıcıların yemek tariflerine kolay erişimini sağlamak ve çeşitli yemek tariflerini görüntüleme ve izleme imkanı sunmak amacıyla geliştirilmiştir. Projenin öne çıkan özellikleri ise şunlardır:
+1. Kategorilere Göre Sınıflandırma: Yemekleri farklı kategorilere ayırarak kullanıcıların istedikleri tariflere daha hızlı erişimini sağlar. Ayrıca, sürdürülebilirlik ve menşe bilgileri gibi önemli detaylar da görüntülenebilir.
+2. Görüntü İşleme ve Tanıma: Kullanıcıların fotoğraf veya kamera ile tanımladıkları malzemeleri algılayarak, bu malzemelere uygun özel yemek tarifleri önerileri sunabilen bir özellik bulunmaktadır. Bu özellik, kullanıcıların ellerindeki malzemelere göre pratik ve kişiselleştirilmiş tarifler bulmalarına olanak tanır, böylece mutfakta daha verimli bir şekilde vakit geçirmelerini sağlar.
+   
+Proje Panelleri:
+1. Kullanıcı Paneli: Kullanıcıların uygulamaya giriş yapabileceği, kayıt olabileceği ve hesap ayarlarını yönetebileceği bir panel.
+2. Yönetici Paneli: Yöneticilerin proje yönetimi, ekip yönetimi ve teknik yönetim gibi işlevleri gerçekleştirebileceği bir panel.
 
-![2](https://user-images.githubusercontent.com/78867217/143778942-5ec4c4fc-2e02-4acc-86f8-7bd69c4837b1.jpg)
+   
+Proje Sayfaları:
+1. Anasayfa Ekranı: Kullanıcıların uygulamaya giriş yaptıktan sonra karşılaşacakları ana ekran.
+2. Favoriler Ekranı: Kullanıcıların favori yemek tariflerini görüntüleyebileceği ve yönetebileceği ekran.
+3. Kategoriler Ekranı: Yemek tariflerinin kategorilere göre listelendiği ekran.
+4. Görüntü İşleme Ekranı: Kullanıcıların malzemelere göre özel yemek tarifleri alabileceği ekran.
 
-![6 (1)](https://user-images.githubusercontent.com/78867217/143781457-104ca064-80ad-4cb9-82f1-b2e8b6abf3b2.jpg)
+   
+Projede Kullanılacak Teknolojiler:
+1. Uygulama Dili: Kotlin
+2. Uygulama Platformu: Android Studio
+3. Veritabanı: SQL Server Management Studio, Firebase
+4. Görüntü İşleme: Google Cloud Vision API
+5. Canva: Ekran Logo Tasarımları
 
-![3](https://user-images.githubusercontent.com/78867217/143778946-0ed6e7bd-8d00-46d0-9aac-9b2926d44194.jpg)
-
-![4](https://user-images.githubusercontent.com/78867217/143778948-6b290e99-0212-4116-b3c2-08388852146f.jpg)
-
-![5](https://user-images.githubusercontent.com/78867217/143778949-deda1f32-feda-4dcc-b45c-c287271c7a70.jpg)
-
-
-# Libraries and technologies used
-- Navigation component : one activity contains multiple fragments instead of creating multiple activites.
-- Retrofit : making HTTP connection with the rest API and convert meal json file to Kotlin/Java object.
-- Room : Save meals in local database.
-- MVVM & LiveData : Saperate logic code from views and save the state in case the screen configuration changes.
-- Coroutines : do some code in the background.
-- view binding : instead of inflating views manually view binding will take care of that.
-- Glide : Catch images and load them in imageView.
 
 
 
